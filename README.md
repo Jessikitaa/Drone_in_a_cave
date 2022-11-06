@@ -6,6 +6,7 @@ Using simulations of https://github.com/LTU-RAI/gazebo_cave_world and https://gi
 This file goes inside the src of the workspace.
 
 Steps to run it: 
+
 cd catkin_ws
 
 source devel/setup.bash
