@@ -7,5 +7,7 @@ This file goes inside the src of the workspace.
 
 Steps to run it: 
 cd catkin_ws
+
 source devel/setup.bash
+
 roslaunch drone_in_a_cave cave_world.launch
